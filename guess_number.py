@@ -1,4 +1,4 @@
-import random#import random to generate andom number
+import random#import random to generate random number
 import sys#to exit from the program
 
 
@@ -46,7 +46,7 @@ def startGame():
     
     
 
-print("============   Welcome to the game Guess the Number   ============")#dsiplay the game title
+print("============   Welcome to the game Guess the Number   ============")#display the game title
 print("A number is generated in between 1 and 20 inclusive")#display the rules
 print("You need to guess the exact number in less than 3 chances")
 while(1):
